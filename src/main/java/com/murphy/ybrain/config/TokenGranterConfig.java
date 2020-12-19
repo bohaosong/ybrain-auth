@@ -1,6 +1,6 @@
 package com.murphy.ybrain.config;
 
-import com.murphy.ybrain.wechat.OpenIdGranter;
+import com.murphy.ybrain.openid.OpenIdGranter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

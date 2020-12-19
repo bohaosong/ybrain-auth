@@ -1,6 +1,6 @@
 package com.murphy.ybrain.config;
 
-import com.murphy.ybrain.wechat.OpenIdAuthenticationProvider;
+import com.murphy.ybrain.openid.OpenIdAuthenticationProvider;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

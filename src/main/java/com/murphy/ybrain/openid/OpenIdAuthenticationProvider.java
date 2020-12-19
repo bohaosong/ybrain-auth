@@ -1,4 +1,4 @@
-package com.murphy.ybrain.wechat;
+package com.murphy.ybrain.openid;
 
 import com.murphy.ybrain.service.SpringDataUserDetailsService;
 import lombok.Setter;
