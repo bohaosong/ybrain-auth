@@ -9,6 +9,7 @@ import java.util.Collection;
 /**
  * @author Murphy
  * @date 2020-12-19 11:56
+ * 需要放在公共的包下面
  */
 public class OpenIdAuthenticationToken extends AbstractAuthenticationToken {
 
